@@ -1,0 +1,605 @@
+fdcId,foodDescription,factorIndex,nutrientConversionFactor.type,nutrientConversionFactor.proteinValue,nutrientConversionFactor.fatValue,nutrientConversionFactor.carbohydrateValue,nutrientConversionFactor.value,nutrientConversionFactor.nitrogenValue
+321358,"Hummus, commercial",0,.CalorieConversionFactor,3.47,8.37,4.07,,
+321358,"Hummus, commercial",1,.ProteinConversionFactor,,,,6.25,
+321360,"Tomatoes, grape, raw",0,.ProteinConversionFactor,,,,6.25,
+321360,"Tomatoes, grape, raw",1,.CalorieConversionFactor,2.44,8.37,3.57,,
+321611,"Beans, snap, green, canned, regular pack, drained solids",0,.CalorieConversionFactor,2.44,8.37,3.57,,
+321611,"Beans, snap, green, canned, regular pack, drained solids",1,.ProteinConversionFactor,,,,6.25,
+323121,"Frankfurter, beef, unheated",0,.CalorieConversionFactor,4.27,9.02,3.87,,
+323121,"Frankfurter, beef, unheated",1,.ProteinConversionFactor,,,,6.25,
+323294,"Nuts, almonds, dry roasted, with salt added",0,.ProteinConversionFactor,,,,5.18,
+323294,"Nuts, almonds, dry roasted, with salt added",1,.CalorieConversionFactor,3.47,8.37,4.07,,
+323505,"Kale, raw",0,.CalorieConversionFactor,2.44,8.37,3.57,,
+323505,"Kale, raw",1,.ProteinConversionFactor,,,,6.25,
+323604,"Egg, whole, raw, frozen, pasteurized",0,.ProteinConversionFactor,,,,6.25,
+323604,"Egg, whole, raw, frozen, pasteurized",1,.CalorieConversionFactor,4.36,9.02,3.68,,
+323697,"Egg, white, raw, frozen, pasteurized",0,.ProteinConversionFactor,,,,6.25,
+323697,"Egg, white, raw, frozen, pasteurized",1,.CalorieConversionFactor,4.36,9.02,3.68,,
+323793,"Egg, white, dried",0,.ProteinConversionFactor,,,,6.25,
+323793,"Egg, white, dried",1,.CalorieConversionFactor,4.36,9.02,3.68,,
+324317,"Onion rings, breaded, par fried, frozen, prepared, heated in oven",0,.CalorieConversionFactor,3.7,8.8,4.0,,
+324317,"Onion rings, breaded, par fried, frozen, prepared, heated in oven",1,.ProteinConversionFactor,,,,6.07,
+324653,"Pickles, cucumber, dill or kosher dill",0,.CalorieConversionFactor,2.44,8.37,3.57,,
+324653,"Pickles, cucumber, dill or kosher dill",1,.ProteinConversionFactor,,,,6.25,
+325036,"Cheese, parmesan, grated",0,.CalorieConversionFactor,4.27,8.79,3.87,,
+325036,"Cheese, parmesan, grated",1,.ProteinConversionFactor,,,,6.38,
+325198,"Cheese, pasteurized process, American, vitamin D fortified",0,.ProteinConversionFactor,,,,6.38,
+325198,"Cheese, pasteurized process, American, vitamin D fortified",1,.CalorieConversionFactor,4.27,8.79,3.87,,
+325287,"Grapefruit juice, white, canned or bottled, unsweetened",0,.ProteinConversionFactor,,,,6.25,
+325287,"Grapefruit juice, white, canned or bottled, unsweetened",1,.CalorieConversionFactor,3.36,8.37,3.92,,
+325430,"Peaches, yellow, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,
+325430,"Peaches, yellow, raw",1,.ProteinConversionFactor,,,,6.25,
+325524,"Seeds, sunflower seed kernels, dry roasted, with salt added",0,.CalorieConversionFactor,3.47,8.37,4.07,,
+325524,"Seeds, sunflower seed kernels, dry roasted, with salt added",1,.ProteinConversionFactor,,,,5.3,
+325871,"Bread, white, commercially prepared",0,.ProteinConversionFactor,,,,6.25,
+325871,"Bread, white, commercially prepared",1,.CalorieConversionFactor,3.9,8.7,4.1,,
+326196,"Kale, frozen, cooked, boiled, drained, without salt",0,.CalorieConversionFactor,2.44,8.37,3.57,,
+326196,"Kale, frozen, cooked, boiled, drained, without salt",1,.ProteinConversionFactor,,,,6.25,
+326698,"Mustard, prepared, yellow",0,.CalorieConversionFactor,3.47,8.37,3.34,,
+326698,"Mustard, prepared, yellow",1,.ProteinConversionFactor,,,,6.25,
+327046,"Kiwifruit, green, raw",0,.ProteinConversionFactor,,,,6.25,
+327046,"Kiwifruit, green, raw",1,.CalorieConversionFactor,3.36,8.37,3.6,,
+327357,"Nectarines, raw",0,.ProteinConversionFactor,,,,6.25,
+327357,"Nectarines, raw",1,.CalorieConversionFactor,3.36,8.37,3.6,,
+328841,"Cheese, cottage, lowfat, 2% milkfat",0,.CalorieConversionFactor,4.27,8.79,3.87,,
+328841,"Cheese, cottage, lowfat, 2% milkfat",1,.ProteinConversionFactor,,,,6.38,
+329370,"Cheese, mozzarella, low moisture, part-skim",0,.CalorieConversionFactor,4.27,8.79,3.87,,
+329370,"Cheese, mozzarella, low moisture, part-skim",1,.ProteinConversionFactor,,,,6.38,
+329490,"Egg, whole, dried",0,.ProteinConversionFactor,,,,6.25,
+329490,"Egg, whole, dried",1,.CalorieConversionFactor,4.36,9.02,3.68,,
+329596,"Egg, yolk, raw, frozen, pasteurized",0,.CalorieConversionFactor,4.36,9.02,3.68,,
+329596,"Egg, yolk, raw, frozen, pasteurized",1,.ProteinConversionFactor,,,,6.25,
+329716,"Egg, yolk, dried",0,.ProteinConversionFactor,,,,6.25,
+329716,"Egg, yolk, dried",1,.CalorieConversionFactor,4.36,9.02,3.68,,
+330137,"Yogurt, Greek, plain, nonfat",0,.ProteinConversionFactor,,,,6.38,
+330137,"Yogurt, Greek, plain, nonfat",1,.CalorieConversionFactor,4.27,8.79,3.87,,
+330415,"Yogurt, Greek, strawberry, nonfat",0,.ProteinConversionFactor,,,,6.38,
+330415,"Yogurt, Greek, strawberry, nonfat",1,.CalorieConversionFactor,4.27,8.79,3.87,,
+330458,"Oil, coconut",0,.ProteinConversionFactor,,,,6.25,
+330458,"Oil, coconut",1,.CalorieConversionFactor,3.47,8.37,4.07,,
+331897,"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",0,.CalorieConversionFactor,4.27,9.02,3.87,,
+331897,"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",1,.ProteinConversionFactor,,,,6.25,
+331960,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",0,.CalorieConversionFactor,4.27,9.02,3.87,,
+331960,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",1,.ProteinConversionFactor,,,,6.25,
+332282,"Sauce, pasta, spaghetti/marinara, ready-to-serve",0,.ProteinConversionFactor,,,,6.25,
+332282,"Sauce, pasta, spaghetti/marinara, ready-to-serve",1,.CalorieConversionFactor,2.44,8.37,3.57,,
+332397,"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",0,.ProteinConversionFactor,,,,6.25,
+332397,"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",1,.CalorieConversionFactor,4.27,9.02,3.87,,
+332791,"Olives, green, Manzanilla, stuffed with pimiento",0,.CalorieConversionFactor,3.36,8.37,3.6,,
+332791,"Olives, green, Manzanilla, stuffed with pimiento",1,.ProteinConversionFactor,,,,6.25,
+333008,"Cookies, oatmeal, soft, with raisins",0,.CalorieConversionFactor,4.0,9.0,4.0,,
+333008,"Cookies, oatmeal, soft, with raisins",1,.ProteinConversionFactor,,,,6.25,
+333281,"Tomatoes, canned, red, ripe, diced",0,.ProteinConversionFactor,,,,6.25,
+333281,"Tomatoes, canned, red, ripe, diced",1,.CalorieConversionFactor,2.44,8.37,3.57,,
+333374,"Fish, haddock, raw",0,.CalorieConversionFactor,4.27,9.02,3.87,,
+333374,"Fish, haddock, raw",1,.ProteinConversionFactor,,,,6.25,
+333476,"Fish, pollock, raw",0,.ProteinConversionFactor,,,,6.25,
+333476,"Fish, pollock, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,
+334536,"Restaurant, Chinese, fried rice, without meat",0,.ProteinConversionFactor,,,,6.25,
+334536,"Restaurant, Chinese, fried rice, without meat",1,.CalorieConversionFactor,4.0,9.0,4.0,,
+334628,"Restaurant, Latino, tamale, pork",0,.ProteinConversionFactor,,,,6.25,
+334628,"Restaurant, Latino, tamale, pork",1,.CalorieConversionFactor,4.0,9.0,4.0,,
+334720,"Restaurant, Latino, pupusas con frijoles (pupusas, bean)",0,.CalorieConversionFactor,4.0,9.0,4.0,,
+334720,"Restaurant, Latino, pupusas con frijoles (pupusas, bean)",1,.ProteinConversionFactor,,,,6.25,
+335240,"Bread, whole-wheat, commercially prepared",0,.CalorieConversionFactor,4.0,9.0,4.0,,
+335240,"Bread, whole-wheat, commercially prepared",1,.ProteinConversionFactor,,,,6.25,
+746758,"Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0"" fat, select, cooked, roasted",0,.ProteinConversionFactor,,,,6.25,
+746758,"Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0"" fat, select, cooked, roasted",1,.CalorieConversionFactor,4.27,9.02,3.87,,
+746759,"Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, choice, raw",0,.CalorieConversionFactor,4.27,9.02,3.87,,
+746759,"Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, choice, raw",1,.ProteinConversionFactor,,,,6.25,
+746760,"Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",0,.ProteinConversionFactor,,,,6.25,
+746760,"Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,
+746761,"Beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",0,.ProteinConversionFactor,,,,6.25,
+746761,"Beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,
+746762,"Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, select, raw",0,.ProteinConversionFactor,,,,6.25,
+746762,"Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, select, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,
+746763,"Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8"" fat, choice, cooked, grilled",0,.CalorieConversionFactor,4.27,9.02,3.87,,
+746763,"Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8"" fat, choice, cooked, grilled",1,.ProteinConversionFactor,,,,6.25,
+746764,"Carrots, frozen, unprepared",0,.CalorieConversionFactor,2.78,8.37,3.84,,
+746764,"Carrots, frozen, unprepared",1,.ProteinConversionFactor,,,,6.25,
+746765,"Cheese, dry white, queso seco",0,.ProteinConversionFactor,,,,6.38,
+746765,"Cheese, dry white, queso seco",1,.CalorieConversionFactor,4.27,8.79,3.87,,
+746766,"Cheese, ricotta, whole milk",0,.ProteinConversionFactor,,,,6.38,
+746766,"Cheese, ricotta, whole milk",1,.CalorieConversionFactor,4.27,8.79,3.87,,
+746767,"Cheese, swiss",0,.ProteinConversionFactor,,,,6.38,
+746767,"Cheese, swiss",1,.CalorieConversionFactor,4.27,8.79,3.87,,
+746768,"Figs, dried, uncooked",0,.ProteinConversionFactor,,,,6.25,
+746768,"Figs, dried, uncooked",1,.CalorieConversionFactor,3.36,8.37,3.6,,
+746769,"Lettuce, cos or romaine, raw",0,.CalorieConversionFactor,2.44,8.37,3.57,,
+746769,"Lettuce, cos or romaine, raw",1,.ProteinConversionFactor,,,,6.25,
+746770,"Melons, cantaloupe, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,
+746770,"Melons, cantaloupe, raw",1,.ProteinConversionFactor,,,,6.25,
+746771,"Oranges, raw, navels",0,.CalorieConversionFactor,3.36,8.37,3.6,,
+746771,"Oranges, raw, navels",1,.ProteinConversionFactor,,,,6.25,
+746772,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",0,.ProteinConversionFactor,,,,6.38,
+746772,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",1,.CalorieConversionFactor,4.27,8.79,3.87,,
+746773,"Pears, raw, bartlett",0,.ProteinConversionFactor,,,,6.25,
+746773,"Pears, raw, bartlett",1,.CalorieConversionFactor,3.36,8.37,3.6,,
+746774,"Restaurant, Chinese, sweet and sour pork",0,.ProteinConversionFactor,,,,6.25,
+746774,"Restaurant, Chinese, sweet and sour pork",1,.CalorieConversionFactor,4.0,9.0,4.0,,
+746775,"Salt, table, iodized",0,.ProteinConversionFactor,,,,0.0,
+746776,"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",0,.ProteinConversionFactor,,,,6.38,
+746776,"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",1,.CalorieConversionFactor,4.27,8.79,3.87,,
+746777,"Sauce, salsa, ready-to-serve",0,.ProteinConversionFactor,,,,6.25,
+746777,"Sauce, salsa, ready-to-serve",1,.CalorieConversionFactor,2.44,8.87,3.57,,
+746778,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",0,.CalorieConversionFactor,4.27,8.79,3.87,,
+746778,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",1,.ProteinConversionFactor,,,,6.38,
+746779,"Sausage, breakfast sausage, beef, pre-cooked, unprepared",0,.ProteinConversionFactor,,,,6.25,
+746779,"Sausage, breakfast sausage, beef, pre-cooked, unprepared",1,.CalorieConversionFactor,4.27,9.02,3.87,,
+746780,"Sausage, Italian, pork, mild, cooked, pan-fried",0,.CalorieConversionFactor,4.27,9.02,3.87,,
+746780,"Sausage, Italian, pork, mild, cooked, pan-fried",1,.ProteinConversionFactor,,,,6.25,
+746781,"Sausage, pork, chorizo, link or ground, cooked, pan-fried",0,.CalorieConversionFactor,4.27,9.02,3.87,,
+746781,"Sausage, pork, chorizo, link or ground, cooked, pan-fried",1,.ProteinConversionFactor,,,,6.25,
+746782,"Milk, whole, 3.25% milkfat, with added vitamin D",0,.ProteinConversionFactor,,,,6.38,
+746782,"Milk, whole, 3.25% milkfat, with added vitamin D",1,.CalorieConversionFactor,4.27,8.79,3.87,,
+746783,"Sausage, turkey, breakfast links, mild, raw",0,.CalorieConversionFactor,4.27,9.02,3.87,,
+746783,"Sausage, turkey, breakfast links, mild, raw",1,.ProteinConversionFactor,,,,6.25,
+746784,"Sugars, granulated",0,.CalorieConversionFactor,0.0,0.0,3.87,,
+746784,"Sugars, granulated",1,.ProteinConversionFactor,,,,6.25,
+746785,"Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",0,.ProteinConversionFactor,,,,6.25,
+746785,"Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",1,.CalorieConversionFactor,4.27,9.02,3.87,,
+746952,"Ham, sliced, restaurant",0,.CalorieConversionFactor,4.27,9.02,3.87,,
+747429,"Cheese, American, restaurant",0,.ProteinConversionFactor,,,,6.38,
+747429,"Cheese, American, restaurant",1,.CalorieConversionFactor,4.27,8.79,3.87,,
+747447,"Broccoli, raw",0,.CalorieConversionFactor,2.44,8.37,3.57,,
+747447,"Broccoli, raw",1,.ProteinConversionFactor,,,,6.25,
+747693,"Ketchup, restaurant",0,.CalorieConversionFactor,2.44,8.37,3.57,,
+747997,"Eggs, Grade A, Large, egg white",0,.CalorieConversionFactor,4.36,9.02,3.68,,
+747997,"Eggs, Grade A, Large, egg white",1,.ProteinConversionFactor,,,,6.25,
+748236,"Eggs, Grade A, Large, egg yolk",0,.ProteinConversionFactor,,,,6.25,
+748236,"Eggs, Grade A, Large, egg yolk",1,.CalorieConversionFactor,4.36,9.02,3.68,,
+748278,"Oil, canola",0,.ProteinConversionFactor,,,,0.0,
+748366,"Oil, soybean",0,.ProteinConversionFactor,,,,0.0,
+748967,"Eggs, Grade A, Large, egg whole",0,.CalorieConversionFactor,4.36,9.02,3.68,,
+748967,"Eggs, Grade A, Large, egg whole",1,.ProteinConversionFactor,,,,6.25,
+749420,"Pork, cured, bacon, cooked, restaurant",0,.CalorieConversionFactor,4.27,9.02,3.87,,
+789890,"Flour, wheat, all-purpose, enriched, bleached",0,.CalorieConversionFactor,4.05,8.37,4.12,,
+789951,"Flour, wheat, all-purpose, enriched, unbleached",0,.CalorieConversionFactor,4.05,8.37,4.12,,
+790018,"Flour, wheat, all-purpose, unenriched, unbleached",0,.CalorieConversionFactor,4.05,8.37,4.12,,
+790085,"Flour, whole wheat, unenriched",0,.CalorieConversionFactor,3.59,8.37,3.78,,
+790146,"Flour, bread, white, enriched, unbleached",0,.CalorieConversionFactor,4.05,8.37,4.12,,
+790214,"Flour, rice, white, unenriched",0,.CalorieConversionFactor,3.82,8.37,4.16,,
+790276,"Flour, corn, yellow, fine meal, enriched",0,.CalorieConversionFactor,3.46,8.37,4.16,,
+1104647,"Garlic, raw",0,.CalorieConversionFactor,2.78,8.37,3.84,,
+1104705,"Flour, soy, defatted",0,.CalorieConversionFactor,3.47,8.37,4.07,,
+1104766,"Flour, soy, full-fat",0,.CalorieConversionFactor,3.47,8.37,4.07,,
+1104812,"Flour, rice, brown",0,.CalorieConversionFactor,3.41,8.37,4.12,,
+1104867,"Flour, rice, glutinous",0,.CalorieConversionFactor,3.82,8.37,4.16,,
+1104913,"Flour, pastry, unenriched, unbleached",0,.CalorieConversionFactor,4.05,8.37,4.12,,
+1104962,"Onions, white, raw",0,.CalorieConversionFactor,2.78,8.37,3.84,,
+1105073,"Bananas, overripe, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,
+1105314,"Bananas, ripe and slightly ripe, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,
+1750339,"Apples, red delicious, with skin, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,
+1750339,"Apples, red delicious, with skin, raw",1,.ProteinConversionFactor,,,,6.25,
+1750340,"Apples, fuji, with skin, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,
+1750340,"Apples, fuji, with skin, raw",1,.ProteinConversionFactor,,,,6.25,
+1750341,"Apples, gala, with skin, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,
+1750341,"Apples, gala, with skin, raw",1,.ProteinConversionFactor,,,,6.25,
+1750342,"Apples, granny smith, with skin, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,
+1750342,"Apples, granny smith, with skin, raw",1,.ProteinConversionFactor,,,,6.25,
+1750343,"Apples, honeycrisp, with skin, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,
+1750343,"Apples, honeycrisp, with skin, raw",1,.ProteinConversionFactor,,,,6.25,
+1750348,"Oil, peanut",0,.CalorieConversionFactor,4.0,8.84,4.0,,
+1750349,"Oil, sunflower",0,.CalorieConversionFactor,4.0,8.84,4.0,,
+1750350,"Oil, safflower",0,.CalorieConversionFactor,4.0,8.84,4.0,,
+1750351,"Oil, olive, extra light",0,.CalorieConversionFactor,4.0,8.84,4.0,,
+1999626,"Mushroom, lion's mane",0,.CalorieConversionFactor,2.62,8.37,3.48,,
+1999626,"Mushroom, lion's mane",1,.ProteinConversionFactor,,,,6.25,
+1999627,"Mushroom, oyster",0,.CalorieConversionFactor,2.62,8.37,3.48,,
+1999627,"Mushroom, oyster",1,.ProteinConversionFactor,,,,6.25,
+1999628,"Mushrooms, shiitake",0,.CalorieConversionFactor,2.62,8.37,3.48,,
+1999628,"Mushrooms, shiitake",1,.ProteinConversionFactor,,,,6.25,
+1999629,"Mushrooms, white button",0,.CalorieConversionFactor,2.62,8.37,3.48,,
+1999629,"Mushrooms, white button",1,.ProteinConversionFactor,,,,6.25,
+1999630,"Soy milk, unsweetened, plain, shelf stable",0,.CalorieConversionFactor,4.0,9.0,4.0,,
+1999630,"Soy milk, unsweetened, plain, shelf stable",1,.ProteinConversionFactor,,,,6.25,
+1999631,"Almond milk, unsweetened, plain, shelf stable",0,.CalorieConversionFactor,4.0,9.0,4.0,,
+1999631,"Almond milk, unsweetened, plain, shelf stable",1,.ProteinConversionFactor,,,,6.25,
+1999632,"Spinach, baby",0,.CalorieConversionFactor,2.44,8.37,3.57,,
+1999632,"Spinach, baby",1,.ProteinConversionFactor,,,,6.25,
+1999633,"Spinach, mature",0,.CalorieConversionFactor,2.44,8.37,3.57,,
+1999633,"Spinach, mature",1,.ProteinConversionFactor,,,,6.25,
+1999634,"Tomato, roma",0,.CalorieConversionFactor,2.44,8.37,3.57,,
+1999634,"Tomato, roma",1,.ProteinConversionFactor,,,,6.25,
+2003586,"Flour, 00",0,.CalorieConversionFactor,4.05,8.37,4.12,,
+2003586,"Flour, 00",1,.ProteinConversionFactor,,,,6.25,
+2003587,"Flour, spelt, whole grain",0,.CalorieConversionFactor,3.59,8.37,3.78,,
+2003587,"Flour, spelt, whole grain",1,.ProteinConversionFactor,,,,6.25,
+2003588,"Flour, semolina, coarse and semi-coarse",0,.CalorieConversionFactor,4.05,8.37,4.12,,
+2003588,"Flour, semolina, coarse and semi-coarse",1,.ProteinConversionFactor,,,,6.25,
+2003589,"Flour, semolina, fine",0,.CalorieConversionFactor,4.05,8.37,4.12,,
+2003589,"Flour, semolina, fine",1,.ProteinConversionFactor,,,,6.25,
+2003590,"Apple juice, with added vitamin C, from concentrate, shelf stable",0,.CalorieConversionFactor,3.36,8.37,3.92,,
+2003590,"Apple juice, with added vitamin C, from concentrate, shelf stable",1,.ProteinConversionFactor,,,,6.25,
+2003591,"Orange juice, no pulp, not fortified, from concentrate, refrigerated",0,.CalorieConversionFactor,3.36,8.37,3.92,,
+2003591,"Orange juice, no pulp, not fortified, from concentrate, refrigerated",1,.ProteinConversionFactor,,,,6.25,
+2003592,"Grape juice, purple, with added vitamin C, from concentrate, shelf stable",0,.CalorieConversionFactor,3.36,8.37,3.92,,
+2003592,"Grape juice, purple, with added vitamin C, from concentrate, shelf stable",1,.ProteinConversionFactor,,,,6.25,
+2003593,"Grape juice, white, with added vitamin C, from concentrate, shelf stable",0,.CalorieConversionFactor,3.36,8.37,3.92,,
+2003593,"Grape juice, white, with added vitamin C, from concentrate, shelf stable",1,.ProteinConversionFactor,,,,6.25,
+2003594,"Cranberry juice, not fortified, from concentrate, shelf stable",0,.CalorieConversionFactor,3.36,8.37,3.92,,
+2003594,"Cranberry juice, not fortified, from concentrate, shelf stable",1,.ProteinConversionFactor,,,,6.25,
+2003595,"Grapefruit juice, red, not fortified, not from concentrate, refrigerated",0,.CalorieConversionFactor,3.36,8.37,3.92,,
+2003595,"Grapefruit juice, red, not fortified, not from concentrate, refrigerated",1,.ProteinConversionFactor,,,,6.25,
+2003596,"Tomato juice, with added ingredients, from concentrate, shelf stable",0,.CalorieConversionFactor,2.44,8.37,3.57,,
+2003596,"Tomato juice, with added ingredients, from concentrate, shelf stable",1,.ProteinConversionFactor,,,,6.25,
+2003597,"Orange juice, no pulp, not fortified, not from concentrate, refrigerated",0,.CalorieConversionFactor,3.36,8.37,3.92,,
+2003597,"Orange juice, no pulp, not fortified, not from concentrate, refrigerated",1,.ProteinConversionFactor,,,,6.25,
+2003598,"Mushroom, portabella",0,.CalorieConversionFactor,2.62,8.37,3.48,,
+2003598,"Mushroom, portabella",1,.ProteinConversionFactor,,,,6.25,
+2003599,"Mushroom, king oyster",0,.CalorieConversionFactor,2.62,8.37,3.48,,
+2003599,"Mushroom, king oyster",1,.ProteinConversionFactor,,,,6.25,
+2003600,"Mushroom, enoki",0,.CalorieConversionFactor,2.62,8.37,3.48,,
+2003600,"Mushroom, enoki",1,.ProteinConversionFactor,,,,6.25,
+2003601,"Mushroom, crimini",0,.CalorieConversionFactor,2.62,8.37,3.48,,
+2003601,"Mushroom, crimini",1,.ProteinConversionFactor,,,,6.25,
+2003602,"Mushroom, maitake",0,.CalorieConversionFactor,2.62,8.37,3.48,,
+2003602,"Mushroom, maitake",1,.ProteinConversionFactor,,,,6.25,
+2003603,"Mushroom, beech",0,.CalorieConversionFactor,2.62,8.37,3.48,,
+2003603,"Mushroom, beech",1,.ProteinConversionFactor,,,,6.25,
+2003604,"Mushroom, pioppini",0,.CalorieConversionFactor,2.62,8.37,3.48,,
+2003604,"Mushroom, pioppini",1,.ProteinConversionFactor,,,,6.25,
+2257044,"Soy milk, sweetened, plain, refrigerated",0,.CalorieConversionFactor,0.0,0.0,0.0,,6.25
+2257044,"Soy milk, sweetened, plain, refrigerated",1,.ProteinConversionFactor,,,,6.25,
+2257045,"Almond milk, unsweetened, plain, refrigerated",0,.CalorieConversionFactor,0.0,0.0,0.0,,6.25
+2257045,"Almond milk, unsweetened, plain, refrigerated",1,.ProteinConversionFactor,,,,6.25,
+2257046,"Oat milk, unsweetened, plain, refrigerated",0,.CalorieConversionFactor,0.0,0.0,0.0,,6.25
+2257046,"Oat milk, unsweetened, plain, refrigerated",1,.ProteinConversionFactor,,,,6.25,
+2258586,"Carrots, mature, raw",0,.CalorieConversionFactor,2.78,8.37,3.84,,6.25
+2258586,"Carrots, mature, raw",1,.ProteinConversionFactor,,,,6.25,
+2258587,"Carrots, baby, raw",0,.CalorieConversionFactor,2.78,8.37,3.84,,6.25
+2258587,"Carrots, baby, raw",1,.ProteinConversionFactor,,,,6.25,
+2258588,"Peppers, bell, green, raw",0,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2258588,"Peppers, bell, green, raw",1,.ProteinConversionFactor,,,,6.25,
+2258589,"Peppers, bell, yellow, raw",0,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2258589,"Peppers, bell, yellow, raw",1,.ProteinConversionFactor,,,,6.25,
+2258590,"Peppers, bell, red, raw",0,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2258590,"Peppers, bell, red, raw",1,.ProteinConversionFactor,,,,6.25,
+2258591,"Peppers, bell, orange, raw",0,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2258591,"Peppers, bell, orange, raw",1,.ProteinConversionFactor,,,,6.25,
+2259792,"Buttermilk, low fat",0,.CalorieConversionFactor,4.27,8.79,3.87,,6.38
+2259792,"Buttermilk, low fat",1,.ProteinConversionFactor,,,,6.38,
+2259793,"Yogurt, plain, whole milk",0,.CalorieConversionFactor,4.27,8.79,3.87,,6.38
+2259793,"Yogurt, plain, whole milk",1,.ProteinConversionFactor,,,,6.38,
+2259794,"Yogurt, Greek, plain, whole milk",0,.CalorieConversionFactor,4.27,8.79,3.87,,6.38
+2259794,"Yogurt, Greek, plain, whole milk",1,.ProteinConversionFactor,,,,6.38,
+2259795,"Cheese, parmesan, grated, refrigerated",0,.CalorieConversionFactor,4.27,8.79,3.87,,6.38
+2259795,"Cheese, parmesan, grated, refrigerated",1,.ProteinConversionFactor,,,,6.38,
+2259796,"Cheese, feta, whole milk, crumbled",0,.CalorieConversionFactor,4.27,8.79,3.87,,6.38
+2259796,"Cheese, feta, whole milk, crumbled",1,.ProteinConversionFactor,,,,6.38,
+2261420,"Flour, almond",0,.CalorieConversionFactor,3.47,8.37,4.07,,6.25
+2261420,"Flour, almond",1,.ProteinConversionFactor,,,,6.25,
+2261421,"Flour, oat, whole grain",0,.CalorieConversionFactor,3.46,8.37,4.12,,6.25
+2261421,"Flour, oat, whole grain",1,.ProteinConversionFactor,,,,6.25,
+2261422,"Flour, potato",0,.CalorieConversionFactor,2.78,8.37,4.03,,6.25
+2261422,"Flour, potato",1,.ProteinConversionFactor,,,,6.25,
+2262072,"Peanut butter, creamy",0,.CalorieConversionFactor,3.47,8.37,4.07,,5.46
+2262072,"Peanut butter, creamy",1,.ProteinConversionFactor,,,,5.46,
+2262073,"Sesame butter, creamy",0,.CalorieConversionFactor,3.47,8.37,4.07,,5.3
+2262073,"Sesame butter, creamy",1,.ProteinConversionFactor,,,,5.3,
+2262074,"Almond butter, creamy",0,.CalorieConversionFactor,3.47,8.37,4.07,,5.18
+2262074,"Almond butter, creamy",1,.ProteinConversionFactor,,,,5.18,
+2262075,"Flaxseed, ground",0,.CalorieConversionFactor,3.47,8.37,4.07,,5.3
+2262075,"Flaxseed, ground",1,.ProteinConversionFactor,,,,5.3,
+2346384,"Cottage cheese, full fat, large or small curd",0,.CalorieConversionFactor,4.27,8.79,3.87,,6.38
+2346384,"Cottage cheese, full fat, large or small curd",1,.ProteinConversionFactor,,,,6.38,
+2346385,"Cream cheese, full fat, block",0,.CalorieConversionFactor,4.27,8.79,3.87,,6.38
+2346385,"Cream cheese, full fat, block",1,.ProteinConversionFactor,,,,6.38,
+2346386,"Cream, heavy",0,.CalorieConversionFactor,4.27,8.79,3.87,,6.38
+2346386,"Cream, heavy",1,.ProteinConversionFactor,,,,6.38,
+2346387,"Cream, sour, full fat",0,.CalorieConversionFactor,4.27,8.79,3.87,,6.38
+2346387,"Cream, sour, full fat",1,.ProteinConversionFactor,,,,6.38,
+2346388,"Lettuce, iceberg, raw",0,.ProteinConversionFactor,,,,6.25,
+2346388,"Lettuce, iceberg, raw",1,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2346389,"Lettuce, romaine, green, raw",0,.ProteinConversionFactor,,,,6.25,
+2346389,"Lettuce, romaine, green, raw",1,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2346390,"Lettuce, leaf, red, raw",0,.ProteinConversionFactor,,,,6.25,
+2346390,"Lettuce, leaf, red, raw",1,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2346391,"Lettuce, leaf, green, raw",0,.ProteinConversionFactor,,,,6.25,
+2346391,"Lettuce, leaf, green, raw",1,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2346392,"Nuts, pine nuts, raw",0,.CalorieConversionFactor,3.47,8.37,4.07,,5.3
+2346392,"Nuts, pine nuts, raw",1,.ProteinConversionFactor,,,,5.3,
+2346393,"Nuts, almonds, whole, raw",0,.CalorieConversionFactor,3.47,8.37,4.07,,5.18
+2346393,"Nuts, almonds, whole, raw",1,.ProteinConversionFactor,,,,5.18,
+2346394,"Nuts, walnuts, English, halves, raw",0,.CalorieConversionFactor,3.47,8.37,4.07,,5.3
+2346394,"Nuts, walnuts, English, halves, raw",1,.ProteinConversionFactor,,,,5.3,
+2346395,"Nuts, pecans, halves, raw",0,.CalorieConversionFactor,3.47,8.37,4.07,,5.3
+2346395,"Nuts, pecans, halves, raw",1,.ProteinConversionFactor,,,,5.3,
+2346396,"Oats, whole grain, rolled, old fashioned",0,.CalorieConversionFactor,3.46,8.37,4.12,,5.83
+2346396,"Oats, whole grain, rolled, old fashioned",1,.ProteinConversionFactor,,,,5.83,
+2346397,"Oats, whole grain, steel cut",0,.CalorieConversionFactor,3.46,8.37,4.12,,5.83
+2346397,"Oats, whole grain, steel cut",1,.ProteinConversionFactor,,,,5.83,
+2346398,"Pineapple, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,6.25
+2346398,"Pineapple, raw",1,.ProteinConversionFactor,,,,6.25,
+2346399,"Cherries, sweet, dark red, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,6.25
+2346399,"Cherries, sweet, dark red, raw",1,.ProteinConversionFactor,,,,6.25,
+2346400,"Beans, snap, green, raw",0,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2346400,"Beans, snap, green, raw",1,.ProteinConversionFactor,,,,6.25,
+2346401,"Potatoes, russet, without skin, raw",0,.CalorieConversionFactor,2.78,8.37,4.03,,6.25
+2346401,"Potatoes, russet, without skin, raw",1,.ProteinConversionFactor,,,,6.25,
+2346402,"Potatoes, red, without skin, raw",0,.CalorieConversionFactor,2.78,8.37,4.03,,6.25
+2346402,"Potatoes, red, without skin, raw",1,.ProteinConversionFactor,,,,6.25,
+2346403,"Potatoes, gold, without skin, raw",0,.CalorieConversionFactor,2.78,8.37,4.03,,6.25
+2346403,"Potatoes, gold, without skin, raw",1,.ProteinConversionFactor,,,,6.25,
+2346404,"Sweet potatoes, orange flesh, without skin, raw",0,.CalorieConversionFactor,2.78,8.37,4.03,,6.25
+2346404,"Sweet potatoes, orange flesh, without skin, raw",1,.ProteinConversionFactor,,,,6.25,
+2346405,"Celery, raw",0,.ProteinConversionFactor,,,,6.25,
+2346405,"Celery, raw",1,.CalorieConversionFactor,2.44,8.37,3.7,,6.25
+2346406,"Cucumber, with peel, raw",0,.ProteinConversionFactor,,,,6.25,
+2346406,"Cucumber, with peel, raw",1,.CalorieConversionFactor,2.44,8.37,3.7,,6.25
+2346407,"Cabbage, green, raw",0,.ProteinConversionFactor,,,,6.25,
+2346407,"Cabbage, green, raw",1,.CalorieConversionFactor,2.44,8.37,3.7,,6.25
+2346408,"Cabbage, red, raw",0,.ProteinConversionFactor,,,,6.25,
+2346408,"Cabbage, red, raw",1,.CalorieConversionFactor,2.44,8.37,3.7,,6.25
+2346409,"Strawberries, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,6.25
+2346409,"Strawberries, raw",1,.ProteinConversionFactor,,,,6.25,
+2346410,"Raspberries, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,6.25
+2346410,"Raspberries, raw",1,.ProteinConversionFactor,,,,6.25,
+2346411,"Blueberries, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,6.25
+2346411,"Blueberries, raw",1,.ProteinConversionFactor,,,,6.25,
+2346412,"Grapes, red, seedless, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,6.25
+2346412,"Grapes, red, seedless, raw",1,.ProteinConversionFactor,,,,6.25,
+2346413,"Grapes, green, seedless, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,6.25
+2346413,"Grapes, green, seedless, raw",1,.ProteinConversionFactor,,,,6.25,
+2346414,"Applesauce, unsweetened, with added vitamin C",0,.CalorieConversionFactor,3.36,8.37,3.6,,6.25
+2346414,"Applesauce, unsweetened, with added vitamin C",1,.ProteinConversionFactor,,,,6.25,
+2512371,"Flour, amaranth",0,.CalorieConversionFactor,3.47,8.37,4.07,,5.85
+2512371,"Flour, amaranth",1,.ProteinConversionFactor,,,,5.85,
+2512372,"Flour, quinoa",0,.CalorieConversionFactor,3.37,8.37,4.07,,5.83
+2512372,"Flour, quinoa",1,.ProteinConversionFactor,,,,5.83,
+2512373,"Flour, sorghum",0,.CalorieConversionFactor,2.28,8.37,4.07,,5.83
+2512373,"Flour, sorghum",1,.ProteinConversionFactor,,,,5.83,
+2512374,"Flour, buckwheat",0,.CalorieConversionFactor,3.37,8.37,3.78,,5.83
+2512374,"Flour, buckwheat",1,.ProteinConversionFactor,,,,5.83,
+2512375,"Flour, rye",0,.CalorieConversionFactor,3.23,8.37,3.99,,5.83
+2512375,"Flour, rye",1,.ProteinConversionFactor,,,,5.83,
+2512376,"Flour, barley",0,.CalorieConversionFactor,3.55,8.37,3.95,,5.83
+2512376,"Flour, barley",1,.ProteinConversionFactor,,,,5.83,
+2512377,"Flour, cassava",0,.CalorieConversionFactor,2.78,8.37,4.03,,5.83
+2512377,"Flour, cassava",1,.ProteinConversionFactor,,,,5.83,
+2512378,"Buckwheat, whole grain",0,.CalorieConversionFactor,3.37,8.37,3.78,,5.83
+2512378,"Buckwheat, whole grain",1,.ProteinConversionFactor,,,,5.83,
+2512379,"Millet, whole grain",0,.CalorieConversionFactor,3.87,8.37,4.12,,5.83
+2512379,"Millet, whole grain",1,.ProteinConversionFactor,,,,5.83,
+2512380,"Rice, brown, long grain, unenriched, raw",0,.CalorieConversionFactor,3.41,8.37,4.12,,5.95
+2512380,"Rice, brown, long grain, unenriched, raw",1,.ProteinConversionFactor,,,,5.95,
+2512381,"Rice, white, long grain, unenriched, raw",0,.CalorieConversionFactor,3.82,8.37,4.16,,5.95
+2512381,"Rice, white, long grain, unenriched, raw",1,.ProteinConversionFactor,,,,5.95,
+2514743,"Beef, ground, 90% lean meat / 10% fat, raw",0,.ProteinConversionFactor,,,,6.25,
+2514743,"Beef, ground, 90% lean meat / 10% fat, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2514744,"Beef, ground, 80% lean meat / 20% fat, raw",0,.ProteinConversionFactor,,,,6.25,
+2514744,"Beef, ground, 80% lean meat / 20% fat, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2514745,"Pork, ground, raw",0,.ProteinConversionFactor,,,,6.25,
+2514745,"Pork, ground, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2514746,"Chicken, ground, with additives, raw",0,.ProteinConversionFactor,,,,6.25,
+2514746,"Chicken, ground, with additives, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2514747,"Turkey, ground, 93% lean/ 7% fat, raw",0,.ProteinConversionFactor,,,,6.25,
+2514747,"Turkey, ground, 93% lean/ 7% fat, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2515373,"Nuts, brazilnuts, raw",0,.ProteinConversionFactor,,,,5.46,
+2515373,"Nuts, brazilnuts, raw",1,.CalorieConversionFactor,3.47,8.37,4.07,,5.46
+2515374,"Nuts, cashew nuts, raw",0,.ProteinConversionFactor,,,,5.3,
+2515374,"Nuts, cashew nuts, raw",1,.CalorieConversionFactor,3.47,8.37,4.07,,5.3
+2515375,"Nuts, hazelnuts or filberts, raw",0,.ProteinConversionFactor,,,,5.3,
+2515375,"Nuts, hazelnuts or filberts, raw",1,.CalorieConversionFactor,3.47,8.37,4.07,,5.3
+2515376,"Peanuts, raw",0,.ProteinConversionFactor,,,,5.46,
+2515376,"Peanuts, raw",1,.CalorieConversionFactor,3.47,8.37,4.07,,5.46
+2515377,"Flour, chestnut",0,.ProteinConversionFactor,,,,5.3,
+2515377,"Flour, chestnut",1,.CalorieConversionFactor,3.47,8.37,4.07,,5.3
+2515378,"Nuts, macadamia nuts, raw",0,.ProteinConversionFactor,,,,5.3,
+2515378,"Nuts, macadamia nuts, raw",1,.CalorieConversionFactor,3.47,8.37,4.07,,5.3
+2515379,"Nuts, pistachio nuts, raw",0,.ProteinConversionFactor,,,,5.3,
+2515379,"Nuts, pistachio nuts, raw",1,.CalorieConversionFactor,3.47,8.37,4.07,,5.3
+2515380,"Seeds, pumpkin seeds (pepitas), raw",0,.ProteinConversionFactor,,,,5.3,
+2515380,"Seeds, pumpkin seeds (pepitas), raw",1,.CalorieConversionFactor,3.47,8.37,4.07,,5.3
+2515381,"Seeds, sunflower seed, kernel, raw",0,.ProteinConversionFactor,,,,5.3,
+2515381,"Seeds, sunflower seed, kernel, raw",1,.CalorieConversionFactor,3.47,8.37,4.07,,5.3
+2515382,"Flour, coconut",0,.ProteinConversionFactor,,,,5.3,
+2515382,"Flour, coconut",1,.CalorieConversionFactor,3.47,8.37,4.07,,5.3
+2644281,"Beans, cannellini, dry",0,.ProteinConversionFactor,,,,6.25,
+2644281,"Beans, cannellini, dry",1,.CalorieConversionFactor,3.47,8.37,4.07,,6.25
+2644282,"Chickpeas, (garbanzo beans, bengal gram), dry",0,.ProteinConversionFactor,,,,6.25,
+2644282,"Chickpeas, (garbanzo beans, bengal gram), dry",1,.CalorieConversionFactor,3.47,8.37,4.07,,6.25
+2644283,"Lentils, dry",0,.ProteinConversionFactor,,,,6.25,
+2644283,"Lentils, dry",1,.CalorieConversionFactor,3.47,8.37,4.07,,6.25
+2644284,"Blackeye pea, dry",0,.ProteinConversionFactor,,,,6.25,
+2644284,"Blackeye pea, dry",1,.CalorieConversionFactor,3.47,8.37,4.07,,6.25
+2644285,"Beans, black, canned, sodium added, drained and rinsed",0,.ProteinConversionFactor,,,,6.25,
+2644285,"Beans, black, canned, sodium added, drained and rinsed",1,.CalorieConversionFactor,3.47,8.37,4.07,,6.25
+2644286,"Beans, navy, canned, sodium added, drained and rinsed",0,.ProteinConversionFactor,,,,6.25,
+2644286,"Beans, navy, canned, sodium added, drained and rinsed",1,.CalorieConversionFactor,3.47,8.37,4.07,,6.25
+2644287,"Beans, cannellini, canned, sodium added, drained and rinsed",0,.ProteinConversionFactor,,,,6.25,
+2644287,"Beans, cannellini, canned, sodium added, drained and rinsed",1,.CalorieConversionFactor,3.47,8.37,4.07,,6.25
+2644288,"Chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed",0,.ProteinConversionFactor,,,,6.25,
+2644288,"Chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed",1,.CalorieConversionFactor,3.47,8.37,4.07,,6.25
+2644289,"Beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed",0,.ProteinConversionFactor,,,,6.25,
+2644289,"Beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed",1,.CalorieConversionFactor,3.47,8.37,4.07,,6.25
+2644290,"Beans, kidney, light red, canned, sodium added, sugar added, drained and rinsed",0,.ProteinConversionFactor,,,,6.25,
+2644290,"Beans, kidney, light red, canned, sodium added, sugar added, drained and rinsed",1,.CalorieConversionFactor,3.47,8.37,4.07,,6.25
+2644291,"Peas, green, sweet, canned, sodium added, sugar added, drained and rinsed",0,.ProteinConversionFactor,,,,6.25,
+2644291,"Peas, green, sweet, canned, sodium added, sugar added, drained and rinsed",1,.CalorieConversionFactor,3.47,8.37,4.07,,6.25
+2644292,"Beans, pinto, canned, sodium added, drained and rinsed",0,.ProteinConversionFactor,,,,6.25,
+2644292,"Beans, pinto, canned, sodium added, drained and rinsed",1,.CalorieConversionFactor,3.47,8.37,4.07,,6.25
+2644293,"Blackeye pea, canned, sodium added, drained and rinsed",0,.ProteinConversionFactor,,,,6.25,
+2644293,"Blackeye pea, canned, sodium added, drained and rinsed",1,.CalorieConversionFactor,3.47,8.37,4.07,,6.25
+2644294,"Beans, great northern, canned, sodium added, drained and rinsed",0,.ProteinConversionFactor,,,,6.25,
+2644294,"Beans, great northern, canned, sodium added, drained and rinsed",1,.CalorieConversionFactor,3.47,8.37,4.07,,6.25
+2646168,"Pork, loin, boneless, raw",0,.ProteinConversionFactor,,,,6.25,
+2646168,"Pork, loin, boneless, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2646169,"Pork, loin, tenderloin, boneless, raw",0,.ProteinConversionFactor,,,,6.25,
+2646169,"Pork, loin, tenderloin, boneless, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2646170,"Chicken, breast, boneless, skinless, raw",0,.ProteinConversionFactor,,,,6.25,
+2646170,"Chicken, breast, boneless, skinless, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2646171,"Chicken, thigh, boneless, skinless, raw",0,.ProteinConversionFactor,,,,6.25,
+2646171,"Chicken, thigh, boneless, skinless, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2646172,"Beef, ribeye, steak, boneless, choice, raw",0,.ProteinConversionFactor,,,,6.25,
+2646172,"Beef, ribeye, steak, boneless, choice, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2646173,"Beef, round, top round, boneless, choice, raw",0,.ProteinConversionFactor,,,,6.25,
+2646173,"Beef, round, top round, boneless, choice, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2646174,"Beef, chuck, roast, boneless, choice, raw",0,.ProteinConversionFactor,,,,6.25,
+2646174,"Beef, chuck, roast, boneless, choice, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2646175,"Beef, flank, steak, boneless, choice, raw",0,.ProteinConversionFactor,,,,6.25,
+2646175,"Beef, flank, steak, boneless, choice, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2647437,"Yogurt, plain, nonfat",0,.ProteinConversionFactor,,,,6.38,
+2647437,"Yogurt, plain, nonfat",1,.CalorieConversionFactor,4.27,8.79,3.87,,6.38
+2647438,"Cheese, monterey jack, solid",0,.CalorieConversionFactor,4.27,8.79,3.87,,6.38
+2647438,"Cheese, monterey jack, solid",1,.ProteinConversionFactor,,,,6.38,
+2647439,"Cheese, pasteurized process cheese food or product, American, singles",0,.CalorieConversionFactor,4.27,8.79,3.87,,6.38
+2647439,"Cheese, pasteurized process cheese food or product, American, singles",1,.ProteinConversionFactor,,,,6.38,
+2647440,"Cheese, provolone, sliced",0,.CalorieConversionFactor,4.27,8.79,3.87,,6.38
+2647440,"Cheese, provolone, sliced",1,.ProteinConversionFactor,,,,6.38,
+2647441,"Cheese, oaxaca, solid",0,.CalorieConversionFactor,4.27,8.79,3.87,,6.38
+2647441,"Cheese, oaxaca, solid",1,.ProteinConversionFactor,,,,6.38,
+2647442,"Cheese, queso fresco, solid",0,.CalorieConversionFactor,4.27,8.79,3.87,,6.38
+2647442,"Cheese, queso fresco, solid",1,.ProteinConversionFactor,,,,6.38,
+2647443,"Cheese, cotija, solid",0,.CalorieConversionFactor,4.27,8.79,3.87,,6.38
+2647443,"Cheese, cotija, solid",1,.ProteinConversionFactor,,,,6.38,
+2684440,"Fish, salmon, sockeye, wild caught, raw",0,.ProteinConversionFactor,,,,6.25,
+2684440,"Fish, salmon, sockeye, wild caught, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2684441,"Fish, salmon, Atlantic, farm raised, raw",0,.ProteinConversionFactor,,,,6.25,
+2684441,"Fish, salmon, Atlantic, farm raised, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2684442,"Fish, tilapia, farm raised, raw",0,.ProteinConversionFactor,,,,6.25,
+2684442,"Fish, tilapia, farm raised, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2684443,"Crustaceans, shrimp, farm raised, raw",0,.ProteinConversionFactor,,,,6.25,
+2684443,"Crustaceans, shrimp, farm raised, raw",1,.CalorieConversionFactor,4.27,9.02,4.11,,6.25
+2684444,"Fish, cod, Atlantic, wild caught, raw",0,.ProteinConversionFactor,,,,6.25,
+2684444,"Fish, cod, Atlantic, wild caught, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2684445,"Fish, catfish, farm raised, raw",0,.ProteinConversionFactor,,,,6.25,
+2684445,"Fish, catfish, farm raised, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2684446,"Crustaceans, crab, blue swimming, lump, pasteurized, refrigerated",0,.ProteinConversionFactor,,,,6.25,
+2684446,"Crustaceans, crab, blue swimming, lump, pasteurized, refrigerated",1,.CalorieConversionFactor,4.27,9.02,4.11,,6.25
+2685568,"Squash, summer, green, zucchini, includes skin, raw",0,.ProteinConversionFactor,,,,6.25,
+2685568,"Squash, summer, green, zucchini, includes skin, raw",1,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2685569,"Squash, summer, yellow, includes skin, raw",0,.ProteinConversionFactor,,,,6.25,
+2685569,"Squash, summer, yellow, includes skin, raw",1,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2685570,"Squash, winter, butternut, raw",0,.ProteinConversionFactor,,,,6.25,
+2685570,"Squash, winter, butternut, raw",1,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2685571,"Squash, winter, acorn, raw",0,.ProteinConversionFactor,,,,6.25,
+2685571,"Squash, winter, acorn, raw",1,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2685572,"Cabbage, bok choy, raw",0,.ProteinConversionFactor,,,,6.25,
+2685572,"Cabbage, bok choy, raw",1,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2685573,"Cauliflower, raw",0,.ProteinConversionFactor,,,,6.25,
+2685573,"Cauliflower, raw",1,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2685574,"Collards, raw",0,.ProteinConversionFactor,,,,6.25,
+2685574,"Collards, raw",1,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2685575,"Brussels sprouts, raw",0,.ProteinConversionFactor,,,,6.25,
+2685575,"Brussels sprouts, raw",1,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2685576,"Beets, raw",0,.ProteinConversionFactor,,,,6.25,
+2685576,"Beets, raw",1,.CalorieConversionFactor,2.78,8.37,3.84,,6.25
+2685577,"Eggplant, raw",0,.ProteinConversionFactor,,,,6.25,
+2685577,"Eggplant, raw",1,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2685578,"Tomatoes, whole, canned, solids and liquids, with salt added",0,.ProteinConversionFactor,,,,6.25,
+2685578,"Tomatoes, whole, canned, solids and liquids, with salt added",1,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2685579,"Tomato, sauce, canned, with salt added",0,.ProteinConversionFactor,,,,6.25,
+2685579,"Tomato, sauce, canned, with salt added",1,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2685580,"Tomato, paste, canned, without salt added",0,.ProteinConversionFactor,,,,6.25,
+2685580,"Tomato, paste, canned, without salt added",1,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2685581,"Tomatoes, crushed, canned",0,.ProteinConversionFactor,,,,6.25,
+2685581,"Tomatoes, crushed, canned",1,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2685582,"Tomato, puree, canned",0,.ProteinConversionFactor,,,,6.25,
+2685582,"Tomato, puree, canned",1,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2710815,"Apricot, with skin, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,6.25
+2710815,"Apricot, with skin, raw",1,.ProteinConversionFactor,,,,6.25,
+2710816,"Melons, honeydew, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,6.25
+2710816,"Melons, honeydew, raw",1,.ProteinConversionFactor,,,,6.25,
+2710817,"Plantains, ripe, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,6.25
+2710817,"Plantains, ripe, raw",1,.ProteinConversionFactor,,,,6.25,
+2710818,"Plantains, underripe, raw",0,.CalorieConversionFactor,2.78,8.37,4.03,,6.25
+2710818,"Plantains, underripe, raw",1,.ProteinConversionFactor,,,,6.25,
+2710819,"Chia seeds, dry, raw",0,.ProteinConversionFactor,,,,5.3,
+2710819,"Chia seeds, dry, raw",1,.CalorieConversionFactor,3.47,8.37,4.07,,5.3
+2710820,"Bulgur, dry, raw",0,.ProteinConversionFactor,,,,6.25,
+2710820,"Bulgur, dry, raw",1,.CalorieConversionFactor,3.59,8.37,3.78,,6.25
+2710821,"Wild rice, dry, raw",0,.ProteinConversionFactor,,,,6.25,
+2710821,"Wild rice, dry, raw",1,.CalorieConversionFactor,3.55,8.37,3.95,,6.25
+2710822,"Arugula, baby, raw",0,.ProteinConversionFactor,,,,6.25,
+2710822,"Arugula, baby, raw",1,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2710823,"Asparagus, green, raw",0,.ProteinConversionFactor,,,,6.25,
+2710823,"Asparagus, green, raw",1,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2710824,"Avocado, Hass, peeled, raw",0,.ProteinConversionFactor,,,,6.25,
+2710824,"Avocado, Hass, peeled, raw",1,.CalorieConversionFactor,3.36,8.37,3.6,,6.25
+2710825,"Rice, black, unenriched, raw",0,.ProteinConversionFactor,,,,6.25,
+2710825,"Rice, black, unenriched, raw",1,.CalorieConversionFactor,3.55,8.37,3.95,,6.25
+2710826,"Corn, sweet, yellow and white kernels,  fresh, raw",0,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2710826,"Corn, sweet, yellow and white kernels,  fresh, raw",1,.ProteinConversionFactor,,,,6.25,
+2710827,"Einkorn, grain, dry, raw",0,.ProteinConversionFactor,,,,5.83,
+2710827,"Einkorn, grain, dry, raw",1,.CalorieConversionFactor,3.59,8.37,3.78,,5.83
+2710828,"Farro, pearled, dry, raw",0,.ProteinConversionFactor,,,,5.83,
+2710828,"Farro, pearled, dry, raw",1,.CalorieConversionFactor,3.59,8.37,3.78,,5.83
+2710829,"Fonio, grain, dry, raw",0,.ProteinConversionFactor,,,,6.25,
+2710829,"Fonio, grain, dry, raw",1,.CalorieConversionFactor,3.87,8.37,4.12,,6.25
+2710830,"Khorasan, grain, dry, raw",0,.ProteinConversionFactor,,,,5.83,
+2710830,"Khorasan, grain, dry, raw",1,.CalorieConversionFactor,3.59,8.37,3.78,,5.83
+2710831,"Kiwifruit (kiwi), green, peeled, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,6.25
+2710831,"Kiwifruit (kiwi), green, peeled, raw",1,.ProteinConversionFactor,,,,6.25,
+2710832,"Mandarin, seedless, peeled, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,6.25
+2710832,"Mandarin, seedless, peeled, raw",1,.ProteinConversionFactor,,,,6.25,
+2710833,"Mango, Tommy Atkins, peeled, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,6.25
+2710833,"Mango, Tommy Atkins, peeled, raw",1,.ProteinConversionFactor,,,,6.25,
+2710834,"Mango, Ataulfo, peeled, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,6.25
+2710834,"Mango, Ataulfo, peeled, raw",1,.ProteinConversionFactor,,,,6.25,
+2710835,"Corn flour, masa harina, white or yellow, dry, raw",0,.ProteinConversionFactor,,,,6.25,
+2710835,"Corn flour, masa harina, white or yellow, dry, raw",1,.CalorieConversionFactor,2.73,8.37,4.03,,6.25
+2710836,"Pear, Anjou, green, with skin, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,6.25
+2710836,"Pear, Anjou, green, with skin, raw",1,.ProteinConversionFactor,,,,6.25,
+2710837,"Plum, black, with skin, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,6.25
+2710837,"Plum, black, with skin, raw",1,.ProteinConversionFactor,,,,6.25,
+2710838,"Rice, red, unenriched, dry, raw",0,.ProteinConversionFactor,,,,6.25,
+2710838,"Rice, red, unenriched, dry, raw",1,.CalorieConversionFactor,3.55,8.37,3.95,,6.25
+2710839,"Sorghum bran, white, unenriched, dry, raw",0,.ProteinConversionFactor,,,,6.25,
+2710839,"Sorghum bran, white, unenriched, dry, raw",1,.CalorieConversionFactor,0.91,8.37,4.03,,6.25
+2710840,"Sorghum flour, white, pearled, unenriched, dry, raw",0,.ProteinConversionFactor,,,,6.25,
+2710840,"Sorghum flour, white, pearled, unenriched, dry, raw",1,.CalorieConversionFactor,2.28,8.37,4.07,,6.25
+2710841,"Sorghum grain, white, pearled, unenriched, dry, raw",0,.ProteinConversionFactor,,,,6.25,
+2710841,"Sorghum grain, white, pearled, unenriched, dry, raw",1,.CalorieConversionFactor,0.91,8.37,4.03,,6.25
+2710842,"Sorghum, whole grain, white, dry, raw",0,.ProteinConversionFactor,,,,6.25,
+2710842,"Sorghum, whole grain, white, dry, raw",1,.CalorieConversionFactor,0.91,8.37,4.03,,6.25
+2710843,"Plantains, overripe, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,6.25
+2710843,"Plantains, overripe, raw",1,.ProteinConversionFactor,,,,6.25,
+2727566,"Chicken, drumstick, meat and skin, raw",0,.ProteinConversionFactor,,,,6.25,
+2727566,"Chicken, drumstick, meat and skin, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2727567,"Chicken, thigh, meat and skin, raw",0,.ProteinConversionFactor,,,,6.25,
+2727567,"Chicken, thigh, meat and skin, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2727568,"Chicken, wing, meat and skin, raw",0,.ProteinConversionFactor,,,,6.25,
+2727568,"Chicken, wing, meat and skin, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2727569,"Chicken, breast, meat and skin, raw",0,.ProteinConversionFactor,,,,6.25,
+2727569,"Chicken, breast, meat and skin, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2727570,"Lamb, ground, raw",0,.ProteinConversionFactor,,,,6.25,
+2727570,"Lamb, ground, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2727571,"Bison, ground, raw",0,.ProteinConversionFactor,,,,6.25,
+2727571,"Bison, ground, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2727572,"Beef, short loin (NY strip steak), raw",0,.ProteinConversionFactor,,,,6.25,
+2727572,"Beef, short loin (NY strip steak), raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2727573,"Beef, tenderloin steak, raw",0,.ProteinConversionFactor,,,,6.25,
+2727573,"Beef, tenderloin steak, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2727574,"Beef, top sirloin steak, raw",0,.ProteinConversionFactor,,,,6.25,
+2727574,"Beef, top sirloin steak, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2727575,"Pork, chop, center cut, raw",0,.ProteinConversionFactor,,,,6.25,
+2727575,"Pork, chop, center cut, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2727576,"Pork, belly, with skin, raw",0,.ProteinConversionFactor,,,,6.25,
+2727576,"Pork, belly, with skin, raw",1,.CalorieConversionFactor,4.27,9.02,3.87,,6.25
+2727577,"Pawpaw, peeled, seeded, raw",0,.CalorieConversionFactor,3.36,8.37,3.6,,6.25
+2727577,"Pawpaw, peeled, seeded, raw",1,.ProteinConversionFactor,,,,6.25,
+2727578,"Squash, pie pumpkin, peeled, seeded, raw",0,.ProteinConversionFactor,,,,6.25,
+2727578,"Squash, pie pumpkin, peeled, seeded, raw",1,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2727579,"Squash, spaghetti, peeled, seeded, raw",0,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2727579,"Squash, spaghetti, peeled, seeded, raw",1,.ProteinConversionFactor,,,,6.25,
+2727580,"Rutabaga, peeled, raw",0,.ProteinConversionFactor,,,,6.25,
+2727580,"Rutabaga, peeled, raw",1,.CalorieConversionFactor,2.78,8.37,3.84,,6.25
+2727581,"Blackberries, raw",0,.ProteinConversionFactor,,,,6.25,
+2727581,"Blackberries, raw",1,.CalorieConversionFactor,3.36,8.37,3.6,,6.25
+2727582,"Tomatillos, dehusked, raw",0,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2727582,"Tomatillos, dehusked, raw",1,.ProteinConversionFactor,,,,6.25,
+2727583,"Cabbage, napa, leaf, destemmed, raw",0,.ProteinConversionFactor,,,,6.25,
+2727583,"Cabbage, napa, leaf, destemmed, raw",1,.CalorieConversionFactor,2.44,8.37,3.7,,6.25
+2727584,"Leeks, bulb and greens, root removed, raw",0,.ProteinConversionFactor,,,,6.25,
+2727584,"Leeks, bulb and greens, root removed, raw",1,.CalorieConversionFactor,2.78,8.37,3.84,,6.25
+2727585,"Green onion, (scallion), bulb and greens, root removed, raw",0,.ProteinConversionFactor,,,,6.25,
+2727585,"Green onion, (scallion), bulb and greens, root removed, raw",1,.CalorieConversionFactor,2.44,8.37,3.57,,6.25
+2727586,"Shallots, bulb, peeled, root removed, raw",0,.ProteinConversionFactor,,,,6.25,
+2727586,"Shallots, bulb, peeled, root removed, raw",1,.CalorieConversionFactor,2.78,8.37,3.84,,6.25
+2727587,"Juice, prune, shelf-stable",0,.CalorieConversionFactor,3.36,8.37,3.92,,6.25
+2727587,"Juice, prune, shelf-stable",1,.ProteinConversionFactor,,,,6.25,
+2727588,"Juice, pomegranate, from concentrate, shelf-stable",0,.ProteinConversionFactor,,,,6.25,
+2727588,"Juice, pomegranate, from concentrate, shelf-stable",1,.CalorieConversionFactor,3.36,8.37,3.92,,6.25
+2727589,"Juice, tart cherry, from concentrate, shelf-stable",0,.ProteinConversionFactor,,,,6.25,
+2727589,"Juice, tart cherry, from concentrate, shelf-stable",1,.CalorieConversionFactor,3.36,8.37,3.92,,6.25
