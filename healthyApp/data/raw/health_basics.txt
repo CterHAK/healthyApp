@@ -1,0 +1,5 @@
+BMI Calculation: BMI = weight (kg) / height^2 (m). Under 18.5: Underweight. 18.5-24.9: Normal. 25-29.9: Overweight. 30+: Obese.
+Heart Rate: Normal resting heart rate for adults: 60-100 bpm. High heart rate may indicate stress or health issues.
+Sleep: Adults need 7-9 hours per night. Sleep cycles are about 90 minutes each; aim for 4-5 cycles for quality sleep.
+TDEE: Total Daily Energy Expenditure. Use Harris-Benedict formula for BMR, then multiply by activity level (1.2 sedentary, 1.55 moderate).
+Common Health Advice: Balanced diet includes fruits, vegetables, proteins. Exercise 150 minutes/week. Consult doctor for personalized advice.
