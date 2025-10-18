@@ -9,11 +9,10 @@ from pydantic import BaseModel
 from huggingface_hub import InferenceClient, login
 from utils import load_data_csv
 from foodDB import FoodDatabase
-
 # ------------------------------
 # Load environment variables
 # ------------------------------
-load_dotenv(dotenv_path=os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '.env'))
+load_dotenv(dotenv_path=r"D:\TLCN\projectHealthy\projectHealthy\healthyApp\.env")
 HF_TOKEN = os.getenv("HF_TOKEN")
 
 if not HF_TOKEN:
@@ -79,7 +78,7 @@ food_db = FoodDatabase(rag_df, food_nutrients_df, input_foods_df, foods_df)
 # MealPlanner class
 # ------------------------------
 class MealPlanner:
-    def __init__(self, model_name='mistralai/Mistral-7B-Instruct-v0.2', prompt=None, hugging_face_token=None):
+    def __init__(self, model_name='meta-llama/Llama-2-7b-chat-hf', prompt=None, hugging_face_token=None):
         self.model_name = model_name
         self.prompt = prompt or ''
         self.hugging_token = hugging_face_token

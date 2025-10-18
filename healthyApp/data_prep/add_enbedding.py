@@ -8,4 +8,4 @@ def add_embedding(rag_df):
     rag_df['embeddings'] = rag_df['rag_text'].apply(lambda x: model.encode(x))
     print("Embeddings generated successfully.")
 
-    rag_df.to_pickle('./healthyApp/data/processed/rag_df.pkl')
+    rag_df.to_pickle('../data/processed/rag_df.pkl')

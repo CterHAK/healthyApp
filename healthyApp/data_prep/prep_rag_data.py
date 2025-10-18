@@ -16,7 +16,7 @@ def create_rag_data(foods_df,nutrients_df):
     )
 
     rag_df = combined_df[['fdcId', 'rag_text']].copy()
-    rag_df.to_pickle("./healthyApp/data/processed/rag_df.pkl")
+    rag_df.to_pickle("../data/processed/rag_df.pkl")
     return rag_df
 
 

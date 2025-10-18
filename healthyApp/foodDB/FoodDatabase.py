@@ -3,7 +3,7 @@ import numpy as np
 import sys
 
 sys.path.append('../')
-from utils import load_data_csv, get_faiss_index, get_food_index
+from healthyApp.utils import load_data_csv, get_faiss_index, get_food_index
 from sentence_transformers import SentenceTransformer
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from pulp import *
@@ -11,8 +11,8 @@ from pulp import *
 import torch
 import os
 from dotenv import load_dotenv
-
-load_dotenv(dotenv_path='./healthyApp/.env')
+path = r'D:\TLCN\projectHealthy\projectHealthy\healthyApp\.env'
+load_dotenv(dotenv_path= path)
 
 # Tắt cảnh báo symlink
 os.environ['HF_HUB_DISABLE_SYMLINKS_WARNING'] = 'true'
@@ -118,11 +118,11 @@ class FoodDatabase:
 
 if __name__ == '__main__':
     # Load dữ liệu
-    rag_df = pd.read_pickle('../data/processed/rag_df.pkl')
+    rag_df = pd.read_pickle('D:\TLCN\projectHealthy\projectHealthy\healthyApp\data\processed\rag_df.pkl')
     rag_df['embeddings'] = rag_df['embeddings'].apply(lambda x: np.array(x, dtype=np.float32))
-    foods_df = load_data_csv('../data/processed/foods.csv')
-    input_foods_df = load_data_csv('../data/processed/input_foods.csv')
-    food_nutrients_df = load_data_csv('../data/processed/food_nutrients.csv')
+    foods_df = load_data_csv('D:\TLCN\projectHealthy\projectHealthy\healthyApp\data\processed\foods.csv')
+    input_foods_df = load_data_csv('D:\TLCN\projectHealthy\projectHealthy\healthyApp\data\processed\input_foods.csv')
+    food_nutrients_df = load_data_csv('D:\TLCN\projectHealthy\projectHealthy\healthyApp\data\processed\food_nutrients.csv')
 
     # Khởi tạo FoodDatabase
     food_db = FoodDatabase(rag_df, food_nutrients_df, input_foods_df, foods_df)

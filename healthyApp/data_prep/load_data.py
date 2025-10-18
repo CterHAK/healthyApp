@@ -26,7 +26,7 @@ def solve_data():
     nutrients_data = []
     input_foods_data = []
     conversion_factors_data = []
-    data = read_data(r'./healthyApp/data/raw/food_data.json')
+    data = read_data(r'D:\TLCN\projectHealthy\projectHealthy\healthyApp\data\raw\food_data.json')
 
     for food in data.get('FoundationFoods',[]):
         fdc_id = food.get('fdcId','Unknown')
@@ -89,11 +89,11 @@ def solve_data():
     conversion_factors_df = pd.DataFrame(conversion_factors_data)
 
     # Lưu vào các file CSV
-    os.makedirs("./healthyApp/data/processed", exist_ok=True)
-    foods_df.to_csv("./healthyApp/data/processed/foods.csv", index=False, encoding="utf-8")
-    nutrients_df.to_csv("./healthyApp/data/processed/food_nutrients.csv", index=False, encoding="utf-8")
-    input_foods_df.to_csv("./healthyApp/data/processed/input_foods.csv", index=False, encoding="utf-8")
-    conversion_factors_df.to_csv("./healthyApp/data/processed/nutrient_conversion_factors.csv", index=False, encoding="utf-8")
+    os.makedirs("../data/processed", exist_ok=True)
+    foods_df.to_csv("../data/processed/foods.csv", index=False, encoding="utf-8")
+    nutrients_df.to_csv("../data/processed/food_nutrients.csv", index=False, encoding="utf-8")
+    input_foods_df.to_csv("../data/processed/input_foods.csv", index=False, encoding="utf-8")
+    conversion_factors_df.to_csv("../data/processed/nutrient_conversion_factors.csv", index=False, encoding="utf-8")
 
     print("Dữ liệu đã được lưu vào các file:")
     print("- foods.csv")

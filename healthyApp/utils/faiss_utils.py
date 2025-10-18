@@ -17,7 +17,6 @@ def get_food_index(foods_df, model):
     embeddings = embeddings.astype('float32')
 
     # Build FAISS index
-    import faiss
     index = faiss.IndexFlatL2(embeddings.shape[1])
     index.add(embeddings)
 
