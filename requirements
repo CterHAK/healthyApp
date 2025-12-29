@@ -1,5 +1,0 @@
-pandas
-sentence_transformers
-faiss-cpu
-sentencepiece
-protobuf==3.20.*
