@@ -26,7 +26,7 @@ def solve_data():
     nutrients_data = []
     input_foods_data = []
     conversion_factors_data = []
-    data = read_data(r'D:\TLCN\projectHealthy\projectHealthy\healthyApp\data\raw\food_data.json')
+    data = read_data(r'E:\Pj\healthyApp\data\raw\food_data.json')
 
     for food in data.get('FoundationFoods',[]):
         fdc_id = food.get('fdcId','Unknown')

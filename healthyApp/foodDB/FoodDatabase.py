@@ -11,7 +11,7 @@ from pulp import *
 import torch
 import os
 from dotenv import load_dotenv
-path = r'D:\TLCN\projectHealthy\projectHealthy\healthyApp\.env'
+path = r'E:\NodeJS_pr\projectHealthy\healthyApp\.env'
 load_dotenv(dotenv_path= path)
 
 # Tắt cảnh báo symlink
@@ -118,11 +118,11 @@ class FoodDatabase:
 
 if __name__ == '__main__':
     # Load dữ liệu
-    rag_df = pd.read_pickle('D:\TLCN\projectHealthy\projectHealthy\healthyApp\data\processed\rag_df.pkl')
+    rag_df = pd.read_pickle('E:/NodeJS_pr/projectHealthy/healthyApp/data/processed/rag_df.pkl')
     rag_df['embeddings'] = rag_df['embeddings'].apply(lambda x: np.array(x, dtype=np.float32))
-    foods_df = load_data_csv('D:\TLCN\projectHealthy\projectHealthy\healthyApp\data\processed\foods.csv')
-    input_foods_df = load_data_csv('D:\TLCN\projectHealthy\projectHealthy\healthyApp\data\processed\input_foods.csv')
-    food_nutrients_df = load_data_csv('D:\TLCN\projectHealthy\projectHealthy\healthyApp\data\processed\food_nutrients.csv')
+    foods_df = load_data_csv('E:/NodeJS_pr/projectHealthy/healthyApp/data/processed/foods.csv')
+    input_foods_df = load_data_csv('E:/NodeJS_pr/projectHealthy/healthyApp/data/processed/input_foods.csv')
+    food_nutrients_df = load_data_csv('E:/NodeJS_pr/projectHealthy/healthyApp/data/processed/food_nutrients.csv')
 
     # Khởi tạo FoodDatabase
     food_db = FoodDatabase(rag_df, food_nutrients_df, input_foods_df, foods_df)
