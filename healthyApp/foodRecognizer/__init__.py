@@ -1,0 +1,1 @@
+from .FoodRecognizer import FoodRecognizer
